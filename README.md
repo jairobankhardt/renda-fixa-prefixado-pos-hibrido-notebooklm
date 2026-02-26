@@ -30,3 +30,10 @@ Compreender a diferença entre as modalidades de rendimento em renda fixa (prefi
 - `glossario.md` → Definições dos principais conceitos
 - `banco-de-prompts.md` → Prompts reutilizáveis
 - `reflexao-metodologica.md` → Aprendizados e uso da IA
+
+---
+
+## Link
+Este Notebook encontra-se em: https://notebooklm.google.com/notebook/26cf0c7f-6a35-4f3d-9e7a-d2bef1701909
+
+
